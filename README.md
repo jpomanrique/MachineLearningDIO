@@ -66,7 +66,7 @@ cd MachineLearningDIO
 
 ## 👨‍💻 Autor
 
-Juan Pablo Omanrique\
+John Peter Oyardo Omanrique\
 GitHub: https://github.com/jpomanrique
 
 ------------------------------------------------------------------------
